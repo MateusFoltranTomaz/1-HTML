@@ -1,3 +1,5 @@
 Neste repositório estarão todos os meus projetos em HTML!😁
 
-![MonkeyComputerNotWorkingGIF](https://github.com/MateusFoltranTomaz/1-HTML/assets/142942489/ec666caa-b37b-4d0a-8bea-e16abb10c348)
+![ThumbsUpComputerGIF](https://github.com/MateusFoltranTomaz/1-HTML/assets/142942489/f6eca70e-e909-4d65-a462-9d12506a3031)
+
+
